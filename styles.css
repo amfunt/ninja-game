@@ -1,0 +1,9 @@
+.places{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    list-style-type: none;
+    position: fixed;
+    
+}
+
